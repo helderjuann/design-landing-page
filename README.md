@@ -1,2 +1,7 @@
 # design-landing-page
-Uma landing page feita para a Agência Maré
+
+Página praticamente completa, um dos meus melhores projetos.
+
+Obs. Preciso arrumar algumas coisas geradas por javascript
+
+Deploy -> https://helderjuann.github.io/design-landing-page/
